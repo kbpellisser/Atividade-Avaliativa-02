@@ -20,7 +20,7 @@ void mostraClassifica(char sexo, float salario, char *classificacao) {
 }
 
 int main() {
-    float salarioMinimo = 1320.0;
+    float salarioMinimo = 1400.0;
     char sexo;
     float salario;
     
